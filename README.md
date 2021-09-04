@@ -14,7 +14,7 @@ so here's what should i do :
 
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-###__15 Juni__ 2021###
+###__15 Juni__ 2021
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
